@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Semester 6 Chatbot</title>
+    <script src="script.js" defer></script>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<header>
+    <h1>Semester 6 Chatbot</h1>
+</header>
+
+<main>
+    <!-- Chat Interface -->
+    <div class="chat-container">
+        <div class="chat-box">
+            <h3>Chat met de chatbot</h3>
+
+            <!-- Chat berichten sectie -->
+            <div class="chat" id="chat"></div>
+        </div>
+
+        <!-- Chat invoerformulier -->
+        <form id="form" method="POST" class="chat-form">
+            <div id="chat-input">
+                <input name="message" class="input-chat" id="query" type="text" placeholder="Typ een bericht..." required />
+                <button type="submit" class="sending-icon">Verstuur</button>
+            </div>
+        </form>
+    </div>
+</main>
+
+</body>
+</html>

@@ -1,0 +1,783 @@
+ 
+HOGESCHOOL ROTTERDAM / CMI 
+ 
+ 
+ 
+ 
+Semester 6 
+ 
+�Een slimme en sociale stad: maak �t samen.� 
+�A smart & social city: make it together.� 
+ 
+CMIIDP01 
+ 
+Interdisciplinaire samenwerking met studenten van de opleidingen 
+ADS&AI, CMD, CMGT, CO, INF, TI 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+Aantal studiepunten: 	30 
+Cursusbeheerders: 	ADS&AI, CMD, CMGT, CO, INF, TI. 
+Cursusbeschrijving 	 
+ 
+Cursusnaam: 
+Semester 6 
+Cursuscode: 
+CMIIDP01 
+Aantal studiepunten en studiebelastinguren: 
+30 
+Dit studieonderdeel levert je 30 studiepunten op, hetgeen overeenkomt met een studielast van 840 uren. De verdeling van deze 840 uren over de collegeweken is globaal als volgt: 
+Introductie, verkennen opgave, kennismaken, etc.                                                              80 uur 
+Begeleide uren: � 8 uur per week x 15 lesweken                                                                    120 uur 
+Onbegeleide uren/ zelfstandig werken in team/individueel                                            616 uur 
+Tussenpresentatie incl. voorbereiding                                                                                        4 uur 
+Eindmarkt/expo incl. voorbereiding                                                                                             16 uur 
+Assessment incl. voorbereiding                                                                                                     4 uur  
+Totaal 	840 uur 
+Vereiste voorkennis: 
+De aangeboden kennis, vaardigheden en ervaringen uit semester 1 t/m 5. 
+Werkvorm: 
+Het onderwijs biedt ruimte voor vakinhoudelijke verbreding en verdieping, er is aanbod vanuit de verschillende opleidingen (workshops, masterclasses, trainingen, etc.) maar er is ook ruimte om met eigen voorstellen te komen. Daarnaast heb je ook de ruimte om daarnaast onderdelen naar persoonlijke (leer)behoefte te volgen.  
+Toetsing: 
+Semester 6 wordt individueel getoetst a.d.h.v. het individueel portfolio en een individueel assessment. Tussentijds vinden regelmatig (formatieve) feedbackmomenten plaats. 
+Leermiddelen: 
+Benodigde leermiddelen worden beschikbaar gesteld via Brightspace. 
+Competenties: 
+1. [Verantwoorde innovatie (context Slimme & Sociale Stad)]: De student onderbouwt hoe de (digitale) technologische toepassing menselijke en democratische waarden bevordert en hoe ethische en sociale implicaties voor diverse belanghebbenden, gemeenschappen en leefomgevingen zijn meegewogen in het resultaat.  
+2. [Interdisciplinaire synthese]: De student toont aan op welke manier integratie van de verschillende inzichten uit analyses plaatsvindt en leidt tot een nieuw begrip van de huidige situatie en mogelijkheden voor verbetering. 
+3. [Interdisciplinair samenwerken en communiceren]: De student toont een basale kennis van de deelnemende disciplines, luistert zonder oordeel en staat open voor de perspectieven van anderen en kan de overeenkomsten en verschillen identificeren en waarderen, is in staat concessies te doen om gezamenlijk tot een goed resultaat te komen. De student heeft respect voor en vertrouwen in de expertise van de teamleden, is in staat om informatie, idee�n en oplossingen helder en onderbouwd over te brengen aan specialisten en niet-specialisten. 
+4. [Adaptief en innovatief vermogen]: De student kan omgaan met onzekerheid en ambigu�teit, neemt initiatief en durft te experimenteren.  
+5. [Kritische zelfreflectie]: De student reflecteert op diens persoonlijke ontwikkeling en interdisciplinair professioneel handelen. 
+6. [Realiseren en evalueren]: De student realiseert een beroepsproduct en toont aan dat het aansluit bij de eisen, wensen en behoeften van de eindgebruiker en/of andere belanghebbenden. (Inclusief de onderbouwing in de bijbehorende documentatie zoals bijv. onderzoek, testen, evaluaties en opleverset.) 
+Inhoud: 
+Het opgavegericht onderwijs is verbonden aan praktijkpartners in de context van de maatschappelijke opgaven binnen de Slimme & Sociale Stad met wie we als Hogeschool en instituut een duurzame relatie onderhouden. Het geeft je de ruimte om interdisciplinair met medestudenten en praktijk partners een project af te baken om bij te dragen aan maatschappelijke opgaven.  
+Opmerkingen: 
+Een opleiding kan aanvullende onderdelen verplichten, hierover staan de details opgenomen in deze cursushandleiding. Aanwezigheid is vanzelfsprekend, zeker bij alle bijeenkomsten die worden georganiseerd met externen of waar jouw individuele bijdrage zichtbaar moet zijn, zoals (tussentijdse) presentaties, de Eindmarkt/Expo en het individueel assessment. Bij afwezigheid stel je in elk geval je team en het docententeam zo snel mogelijk op de hoogte. Aanpassingen aan de planning of het rooster worden zo snel mogelijk gecommuniceerd via MS Teams. 
+Cursusbeheerder: 
+ADS&AI, CMD, CMGT, CO, INF, TI. 
+Contactpersoon: Monique van der Ploeg 
+Datum: 
+6 februari 2025 
+Inhoudsopgave 
+1 Algemene omschrijving 	4 
+1.1 Inleiding 	5 
+1.1.1 Relatie met andere onderwijseenheden 	5 
+1.1.2 Leermiddelen 	5 
+1.1.3 Beroepsproducten vs. overdraagbaarheid opleverset 	5 
+2 Programma algemeen 	6 
+2.1 Planning 	6 
+2.2 Betrokkenen 	7 
+2.2.1 Studenten 	7 
+2.2.2 Praktijkpartner 	7 
+2.2.3 Docentbegeleiders / examinatoren / assessoren 	7 
+2.3 Soorten bijeenkomsten 	7 
+2.3.1 Bijeenkomsten tussen team en de praktijkpartner 	7 
+2.3.2 Bijeenkomsten met alle studenten 	7 
+2.3.3 Bijeenkomsten met alle studenten van de eigen opleiding 	7 
+2.3.4 Bijeenkomsten met teams met hetzelfde thema of dezelfde praktijkpartner 	7 
+2.3.5 Zelfstandig werken (onbegeleid) 	7 
+2.3.6 Zelfstandig werken (begeleid) 	7 
+2.3.7 Workshops / gastcolleges / etc. 	8 
+2.3.8 Individueel gesprek met docentbegeleider(s) 	8 
+2.3.9 Presentaties 	8 
+2.3.10 Tussenpresentatie 	8 
+2.3.11 Eindmarkt / Expo 	8 
+2.3.12 Individueel assessment 	8 
+3 Toetsing en beoordeling 	8 
+3.1 Voorwaarde voor deelname assessment 	8 
+3.1.1 Opleverset (team) = voorwaardelijk voor deelname aan het assessment 8 3.1.2 Portfolio (individueel) = voorwaardelijk voor deelname aan het assessment 9 
+	3.1.3 	Aanwezigheid 	9 
+3.2 Assessment (individueel): procedure 	9 
+3.3 Inzage 	10 
+3.4 Herkansing 	10 
+4 Aanvullende informatie per opleiding 	11 
+4.1 Studenten ADS&AI 	11 
+4.2 Studenten CMD 	12 
+4.3 Studenten CO 	12 
+4.4 Studenten CMGT 	13 
+4.5 Studenten INF 	14 
+4.6 Studenten TI 	15 
+5 Plagiaat 	16 
+6 Changelog 	16 
+1 Algemene omschrijving 
+Semester 6 (SEM6) heeft als doel te leren hoe je vanuit je eigen discipline waarde kunt toevoegen aan betekenisvolle oplossingen en hoe je je eigen waarde kunt vergroten door van en over andere disciplines te leren. Het biedt zowel opleidingsspecifieke als opleidingsoverstijgende kennis en vaardigheden en is zo ingericht dat je voldoende gelegenheid hebt de beroepscompetenties van de opleiding waarbij je bent ingeschreven te verwerven. 
+Het is een bewuste keuze om in deze cursushandleiding alle informatie op te nemen met betrekking tot wat van de verschillende studenten van de verschillende opleidingen wordt verwacht, zodat je dat ook van je medestudenten weet. 
+Door te kiezen voor dit interdisciplinaire programma krijg je de mogelijkheid je te profileren. De context van de Slimme & Sociale Stad met diverse thema�s staat centraal. Voor dit studiejaar 2024-2025 is een selectie gemaakt van 3 thema�s waaraan gewerkt kan gaan worden: 
+Hybride wereld 
+https://www.hogeschoolrotterdam.nl/hogeschool/missie-visie-en-strategie/slimme-en-sociale-stad/hybridewereld/ 
+Slimme objecten en omgevingen 
+https://www.hogeschoolrotterdam.nl/hogeschool/missie-visie-en-strategie/slimme-en-sociale-stad/slimmeobjecten-en-omgevingen/ 
+Digitale sociale innovatie 
+https://www.hogeschoolrotterdam.nl/hogeschool/missie-visie-en-strategie/slimme-en-sociale-stad/digitalesociale-innovatie/ 
+ 
+ 
+ 
+1.1 Inleiding 
+Het gevoel dat de wereld wel een steuntje in de rug kan gebruiken, je herkent dat en eigenlijk maak je je ook best een beetje zorgen. Over het klimaat, de sociale ongelijkheid, het gebrek aan ruimte of de tekorten in de zorg. Hier liggen opgaves die om oplossingen vragen, er is verandering nodig. We kunnen onze wereld niet blijven uitbuiten, en daar wil jij je hard voor maken. Meewerken aan een maatschappij die duurzaam en leefbaar blijft, voor iedereen.  De ontwikkeling van digitale technologie speelt een belangrijke rol binnen deze opgaves. Natuurlijk zie je dat die ontwikkelingen ons verder brengen, het leven makkelijker maken. Zo zou je Generatieve AI misschien niet meer willen missen als student. De OV-chipkaart heeft ook grote voordelen als je daar de papieren kaartjes van vroeger tegenover zet. Maar je hebt ook wel zo je twijfels. Wat als die technologische ontwikkelingen zo dwingend worden, dat we er als mens geen vat meer op hebben? Denk bijvoorbeeld aan algoritmes die discrimineren, uitsluiten en polariseren. Houden we wel voldoende oog voor de menselijke maat?  
+Ja, de wereld waarin we leven is een lastige. Om de uitdagingen van nu op te lossen, hebben we elkaar maar zeker ook jullie nodig. Studenten die vanuit een persoonlijke betrokkenheid, de maatschappelijke uitdagingen willen oppakken. Studenten die willen meewerken en streven naar een wereld die duurzaam en eerlijk is. En waar iedereen in mee kan doen, waarin verantwoordelijkheid wordt getoond naar elkaar en naar de natuur.   
+Hiermee ga je aan de slag binnen het interdisciplinaire programma. Het geeft je de mogelijkheid om met studenten van andere opleidingen te werken aan opgaves die jullie raken. Door gebruik te maken van elkaars talenten kom je vaak tot andere, completere concepten en oplossingen. Je leert vanuit meerdere perspectieven naar de puzzel te kijken, je leert van elkaar en weet veel beter wat realistisch en haalbaar is. Iedereen draagt vanuit een eigen expertise bij aan een toekomstbestendige samenleving! Tijdens SEM6 werk je samen met externe praktijkpartners en met het Kenniscentrum Creating010 (KC010) aan complexe opgaves in de context van de Slimme & Sociale Stad. 
+ 
+1.1.1 Relatie met andere onderwijseenheden 
+Bij deelname aan SEM6 wordt verwacht dat je alle kennis, vaardigheden en ervaring die je hebt opgedaan in semester 1 t/m 5 van de eigen opleiding actief inzet. Daarnaast kan deelname je helpen in de voorbereiding op een minor of het afstuderen. 
+Er worden onderdelen aangeboden die relevant zijn om goed met de praktijkopgave aan de slag te gaan, zoals bijvoorbeeld workshops, masterclasses, trainingen en evenementen die binnen school of daarbuiten worden georganiseerd. De onderwerpen met betrekking tot de praktijkopgave kunnen per praktijkopgave & context verschillen. Onderwerpen die vanuit de verschillende opleidingen mogelijk kunnen worden aangeboden: Ethiek, Storytelling, Reframing, Community Building, AI, Machine Learning, 3D Modelling, Rapid Prototyping, Embedded Systems, Werken met Language Model, Onepager (Front-end), Game programming, Creatieve toepassing bouwen met patroonherkenning, etcetera. 
+ 
+1.1.2 Leermiddelen 
+Benodigde leermiddelen vanuit SEM6 en de opleidingen worden beschikbaar gesteld via Brightspace. Aanvullende materialen die relevant zijn voor een team of opgave worden beschikbaar gesteld door de praktijkpartner. 
+ 
+1.1.3 Beroepsproducten vs. overdraagbaarheid opleverset 
+Je bent onderdeel van een zogenaamde �learning community�. Dit betekent dat alles wat je maakt als �open source� beschikbaar is voor volgende teams. Dit stelt ook eisen aan de overdraagbaarheid van je werk. Voor all het 
+(team)werk dat is ontwikkeld geldt dat duidelijk moet zijn wat er is onderzocht, ontworpen en ontwikkeld, de gemaakte keuzes duidelijk zijn onderbouwd en er aanbevelingen worden gedaan voor een volgend team. 
+ 
+ 
+ 
+ 
+ 	 
+2 Programma algemeen 
+2.1 Planning 
+SEM6 is globaal als volgt ingedeeld: 
+ 
+ 
+Een reguliere week ziet erin principe zo uit.  
+Ma 
+Di 
+Wo 
+Do 
+Vr 
+  
+  
+  
+  
+  
+  
+  Locatie EXTERN  Werken aan  opgave 
+  
+  Locatie HR  Opleiding- overstijgend  aanbod 
+  
+  Locatie HR  Coaching en  begeleiding op  samenwerken 
+  
+Roostervrij 
+  
+  Locatie HR   Opleiding spe- cifiek aanbod 
+& Guids 
+  
+  
+  
+  
+  
+  
+  Locatie EXTERN  Werken aan  opgave 
+  
+  Locatie HR   Opleiding spe- cifiek aanbod 
+& Guids 
+  
+Locatie HR  
+Werken aan opgave 
+  
+  
+  
+  Locatie HR   Opleiding spe- cifiek aanbod 
+& Guids 
+  
+  
+  
+  
+  
+ 
+ 
+In de uitgebreide planning die gedeeld wordt via Brightspace wordt aangegeven wat waar en wanneer precies aan bod komt en waar je verwacht wordt. 
+Communicatie volgt via Brightspace en op de momenten dat alle studenten gelijktijdig sessies hebben. 
+ 
+Tijdens SEM maken we gebruik van het Double Diamond Model, hieronder schematisch weergegeven, tijdens de bijeenkomsten wordt dit verder toegelicht. 
+
+2.2 Betrokkenen 
+2.2.1 Studenten 
+Je werkt samen met studenten van tenminste 2 andere disciplines aan een opgave. Dit wordt deels geco�rdineerd vanuit de organisatie om zoveel mogelijk variatie in de teams te hebben verdeeld over de verschillende opgaves. Je maakt binnen het team afspraken over samenwerking, werkwijze, etc. en maakt als team ook afspraken met de praktijkpartner. 
+ 
+2.2.2 Praktijkpartner 
+De praktijkpartner is het eerste aanspreekpunt voor de opgave waaraan je met je team werkt. Onze praktijkpartners zijn dus geen traditionele opdrachtgevers, maar vormen met jullie de learning community die samen wil werken aan onze maatschappelijke opgaven. 
+ 
+2.2.3 Docentbegeleiders / examinatoren / assessoren 
+Een team van docentbegeleiders uit alle opleidingen binnen CMI is beschikbaar. Het kan zijn dat je regelmatig gesprekken voert met docenten van een andere opleiding die betrokken is bij de opgave. 
+Met de docent(en) van je eigen opleiding heb je gesprekken over jouw ontwikkeling op competentie 6 en op welke manier je nog beter waarde vanuit jouw eigen discipline kan creeren.  
+Je wordt individueel beoordeeld tijdens het assessment door 2 assessoren, een docent van de eigen opleiding en een onafhankelijke examinator van een van de andere opleidingen die wel betrokken is geweest bij SEM6. 
+2.3 Soorten bijeenkomsten 
+Dit is een complex semester, onderstaand voorbeelden van verschillende bijeenkomsten: 
+ 
+2.3.1 Bijeenkomsten tussen team en de praktijkpartner 
+Op maandagen werk je bij de praktijkpartner aan de opgave. Het is aan jullie en de praktijkpartner of andere betrokkenen om aanvullende afspraken te maken over het verloop. 
+ 
+2.3.2 Bijeenkomsten met alle studenten 
+Er worden bijeenkomsten georganiseerd voor alle studenten om bijvoorbeeld meer bedreven te raken in het samenwerken en ontwerpen binnen een complexe opgave. 
+ 
+2.3.3 Bijeenkomsten met alle studenten van de eigen opleiding: Guild. 
+Sommige bijeenkomsten zijn alleen relevant voor studenten van ��n specifieke opleiding. Denk hierbij aan bijvoorbeeld opleidingsspecifieke theoriecollege �s en de Guild-bijeenkomsten. De intensiteit kan per opleiding verschillen. 
+ 
+2.3.4 Bijeenkomsten met teams met hetzelfde thema of dezelfde praktijkpartner: Squad. 
+Er worden bijeenkomsten georganiseerd die mogelijk alleen relevant zijn voor teams met dezelfde thema of praktijkpartner. 
+ 
+2.3.5 Zelfstandig werken (onbegeleid) 
+Er wordt veel zelfstandigheid van de teams verwacht, individueel binnen het team, samen werken of samenwerken. Er wordt van de teams verwacht dat ze hun eigen voortgang bijhouden zodat ze dat regelmatig met de docenten kunnen bespreken. Er zijn ook momenten in de week dat het team op school kan werken, hiervoor zijn ruimtes gereserveerd. 
+ 
+2.3.6 Zelfstandig werken (begeleid) 
+Er zijn regelmatig momenten dat je zelfstandig (met het team) werkt en dat een afvaardiging van het docententeam beschikbaar is om te overleggen of vragen aan te stellen. Tussentijds krijg je formatieve feedback op de beroepsproducten of jouw individuele ontwikkeling. 
+De afvaardiging kan per week vari�ren. Het is van belang dat je ook met de docent van de eigen opleiding kunt sparren over de opgave, jouw competentieontwikkeling, jouw portfolio of (de voorbereidingen op) het assessment. 
+ 
+2.3.7 Workshops / gastcolleges / etc. 
+Er worden diverse workshops, lezingen etc. aangeboden. Ze hebben indirect een relatie met de competenties waarop je uiteindelijk beoordeeld wordt. De workshops vanuit CMI worden aangeboden tijdens de ingeroosterde bijeenkomsten op school. In geval van een externe spreker/ gastcollege, evenement kan hiervan afgeweken worden. 
+Hierover wordt gecommuniceerd via teams of via de praktijkpartner wanneer het een specifieke situatie betreft. Je kunt ook zelf met een voorstel komen, afhankelijk van de behoefte vanuit het team of de opgave. Er wordt in overleg met het docententeam gekeken of en wat daarin de mogelijkheden zijn. 
+ 
+2.3.8 Individueel gesprek met docentbegeleider(s) 
+Er is ruimte om met je docenten te sparren over je competentieontwikkeling. Naast de gefaciliteerde momenten, ligt het initiatief om te sparren bij jou. 
+ 
+2.3.9 Presentaties 
+Er zijn meerdere momenten waarop je presenteert, individueel of in teamverband.  
+ 
+2.3.10 Tussenpresentatie 
+Tussentijds presenteer je met je team de voortgang van jullie oplossing..  
+ 
+2.3.11 Eindmarkt / Expo 
+SEM6 wordt afgesloten met een Eindmarkt/Expo, waar elk team de resultaten demonstreert aan bezoekers, zoals medestudenten, docenten, praktijkpartners, familie, vrienden en andere ge�nteresseerden. Het is ook een mooi moment om jezelf te presenteren, voorbereidend op het vinden van bijvoorbeeld een afstudeeropdracht. 
+Let goed op de manier waarop jullie je als team presenteren! Ook is dit een goed moment om feedback te vragen op je resultaten, zodat je deze bevindingen mee kunt nemen bij de afronding ervan en in je portfolio. Zie het als een beurs of een markt waar alle ideeen getoond, uitgeprobeerd, bevraagd kunnen worden. Bezoekers kunnen bij de ? verschillende groepen een kijkje nemen.  
+ 
+2.3.12 Individueel assessment 
+Het individueel assessment is gebaseerd op het portfolio, je eventuele toelichting of presentatie en vindt plaats in de vorm van een assessmentgesprek/ criterium gericht interview. (Zie hoofdstuk Toetsing en beoordeling) 
+ 
+ 
+3 Toetsing en beoordeling 
+Je werkt vanuit een opgave aan de verschillende competenties. In je portfolio verzamel je bewijsstukken waarmee je de competenties wil aantonen. Tijdens het individueel assessment word je getoetst op de competenties, hierbij wordt ingegaan op de competenties mochten die nog niet overtuigend (genoeg) zijn aangetoond in het portfolio. Je laat zien hoe je je hebt ontwikkeld aan de hand van het geselecteerde materiaal en geeft daarbij een toelichting. 
+ 
+3.1 Voorwaarde voor deelname assessment 
+Als je niet aan onderstaande voorwaarden voldoet, wordt er geen assessment ingepland. Er wordt dan een Niet Deelgenomen (ND) ingevoerd in Osiris. 
+ 
+3.1.1 Opleverset (team) = voorwaardelijk voor deelname aan het assessment 
+Het op tijd inleveren van de opleverset in Brighspace. De opleverset bestaat uit de volgende onderdelen en voldoet aan een aantal voorwaarden: 
+� Alle onderdelen zijn in correct Nederlands of Engels geschreven en voorzien van namen en studentnummers. 
+� Er is een Onepager door het team ontwikkeld en opgenomen in het portfolio met daarop minimaal: De teamgegevens incl. opleidingen, studiejaar, praktijkopgave, procesbeschrijving en jullie oplossing. (Dit is onderdeel van de overdrachtsdocumentatie voor de praktijkpartner/ volgende team)  
+� Er is een Demofilm door het team gemaakt waarin jullie in max. 5 minuten ingaan op jullie bijdrage aan deze maatschappelijke opgave voor de praktijkpartner om op terug te kijken en voor nieuwe SEM6 studenten om op door te ontwikkelen. (Dit is onderdeel van de overdrachtsdocumentatie voor de praktijkpartner/ volgende team); 
+� Het materiaal dat het team heeft ontworpen en ontwikkeld, in afstemming met praktijkpartners en docenten. 
+� Evaluatie van de praktijkpartner (Vraag de praktijkpartner naar schriftelijke feedback op jullie handelen als team. Bijvoorbeeld: hoe heeft de praktijkpartner de samenwerking met jullie ervaren of hoe levert jullie oplossing een bijdrage aan de maatschappelijk opgave). 
+ 
+3.1.2 Portfolio (individueel) = voorwaardelijk voor deelname aan het assessment 
+Het op tijd inleveren van het portfolio in Brighspace. De opleverset bestaat uit de volgende onderdelen en voldoet aan een aantal voorwaarden: 
+� Alle onderdelen zijn in correct Nederlands of Engels geschreven en voorzien van naam en studentnummer. 
+� Een overzicht per competentie met welke bewijsstukken je aandraagt om de competentie aan te tonen. (Bij voorkeur meer dan 1 bewijsstuk per competentie om jouw competentieontwikkeling zichtbaar te maken) 
+� De daadwerkelijke bewijsstukken zelf (of links naar bestanden in de opleverset). Dat kunnen kant-en-klare producten zijn, maar mogen ook schetsen, aantekeningen en werkdocumenten zijn. 
+� In geval van een gezamenlijk bewijsstuk geef je aan wat jouw bijdrage is geweest in de totstandkoming van het beroepsproduct. 
+� Reflectie op jouw competentieontwikkeling, de samenwerking, jouw bijdrage aan het project vanuit jouw discipline en de evaluatie van de praktijkpartner. 
+� LET OP: Voor competentie 6 kan het zijn dat opleidingen specifieke bewijsstukken van je willen zien, zie hiervoor 
+hoofdstuk 5. 
+ 
+Na het op tijd inleveren van de opleverset en het portfolio, wordt een indeling voor de assessments gemaakt. Die vinden plaats volgens de planning die via Brightspace en/of Teams wordt gecommuniceerd.  
+ 
+3.1.3 Aanwezigheid 
+Aanwezigheid is vanzelfsprekend, zeker bij alle bijeenkomsten die worden georganiseerd met externen of waar jouw individuele bijdrage zichtbaar moet zijn, zoals (tussentijdse) presentaties, de Eindmarkt/Expo en het assessment. Bij afwezigheid stel je in elk geval je team en het docententeam zo snel mogelijk op de hoogte. Bij afwezigheid tijdens het assessment volgt een ND. 
+ 
+3.2 Assessment (individueel): procedure 
+Het assessment is gebaseerd op het portfolio, je eventuele toelichting of presentatie en vindt plaats in de vorm van een assessmentgesprek. Het assessmentgesprek wordt uitgevoerd door twee daarvoor getrainde assessoren (examinatoren) waarbij altijd ��n van de eigen opleiding betrokken is. 
+Alle competenties moeten worden aangetoond. 
+Het assessmentgesprek duurt in totaal maximaal 1 uur en is globaal als volgt opgebouwd: 
+1. Welkom en korte uitleg over de gang van zaken door de 1e assessor (docent van de eigen opleiding); 
+2. 5 minuten presentatie door de student (toelichting portfolio of extra materiaal tonen indien gewenst); 
+3. 30 minuten vraaggesprek door de assessoren (dit n.a.v. de voorbereiding en aanvullend de presentatie van de student). Hierbij wordt ingegaan op de competenties en hoe jij je daarin hebt ontwikkeld aan de hand van de bewijsstukken die je hebt ingeleverd; 
+4. Afsluiting assessment met de student (alles verteld/ gevraagd binnen de tijd); 
+5. 10 minuten onderlinge (voorlopige) besluitvorming door assessoren; (levert materiaal op dat besproken kan worden bij de kalibratie tussen de assessoren); 
+6. Overleg (kalibratie) tussen alle assessoren van SEM6 voordat terugkoppeling naar de studenten plaatsvindt. 
+7. Beoordeling met onderbouwing volgt in Brightspace; 
+8. Inzagemoment (op afspraak en initiatief van de 1e assessor). 
+ 
+3.3 Inzage 
+Na het assessment ontvang je via Brightspace de beoordeling waarin gemotiveerd aangegeven staat welke competenties je voldoende of onvoldoende hebt aangetoond. 
+In de week volgend op de beoordeling wordt door de eigen docent een inzagemoment georganiseerd waarbij je een eventuele toelichting kunt krijgen op de beoordeling en vragen kunt stellen ter voorbereiding op de herkansing. 
+ 
+3.4 Herkansing 
+Wanneer je na het 1e toetsmoment nog niet alle competenties voldoende hebt aangetoond, kun je deze tijdens de herkansing mogelijk alsnog aantonen. Ter voorbereiding lever je jouw aangepaste portfolio opnieuw in in Brightspace (zie planning). Uiteraard dien je ook hier rekening te houden met de geldende voorwaarden. 
+De beoordeling van de herkansing wordt voor de zomervakantie bekendgemaakt. 
+Wanneer je geen gebruik hebt gemaakt van het 1e toetsmoment, dan heb je recht op deelname aan de herkansing (2e toetsmoment). De herkansing is identiek aan het 1e toetsmoment. LET OP: als je niet hebt deelgenomen aan het 1e toetsmoment en tijdens het 2e toetsmoment niet alle competenties voldoende weet aan te tonen, heb je geen recht op een extra herkansing. Je kan dan de cursus in zijn geheel opnieuw doen in studiejaar 2025-2026. 
+ 
+ 	 
+
+4 Aanvullende informatie per opleiding 
+4.1 Studenten ADS&AI 
+Hierin staan een aantal voorbeelden van bewijslast waar je aan kan denken voor het aantonen dat je aan de leerdoelen en competenties hebt gewerkt. Dit zijn voorbeelden, je mag dus ook andere bewijslast gebruiken. 
+Je bepaalt dus zelf de beroepsproducten waarmee je de competenties zou kunnen aantonen. Deze kun je afstemmen met medestudenten, de praktijkpartner en de docenten. Je doet zelf een voorstel en wordt hierbij gecoacht door de docent(en). Tip: kies de vorm die het best past bij de opgave. 
+Die voeg je dan toe aan dit schema of je vervangt ��n van de voorbeelden. In je voorstel kun je onderstaande tabel overnemen waarin je in de linker kolom je bewijslast invult en dan zet je vervolgens een kruisje voor welke competentie je hiermee wil aantonen. 
+ 
+Bewijslast 
+Competenties sem 6 
+
+
+ 
+ 
+ 
+Sem 6 competenties 
+1. Verantwoorde innovatie (context Slimme & Sociale Stad) 
+
+
+
+ 
+2. Interdisciplinaire synthese 
+
+
+
+ 
+3. Interdisciplinair samenwerken en communiceren 
+ 
+3. 
+Interdisciplinair 
+samenwerken en communiceren 
+
+4. Adaptief en innovatief vermogen 
+
+
+
+ 
+ 
+ 
+ 
+5. Kritische zelfreflectie 
+ 
+ADS&AI competenties 
+Responsible Tech 
+TC 
+Verwerven, verwerken en beheren van data 
+TC 
+Onderzoeken en analyseren van data 
+TC 
+Ontwikkelen, testen en uitrollen van modellen 
+PO* 
+Onderzoekende, lerende en reflectieve houding 
+PO 
+Communiceren en samenwerken met stakeholders 
+Projectvoorstel 
+ 
+ 
+ 
+ 
+ 
+x 
+Planning  
+ 
+ 
+ 
+ 
+x 
+x 
+Wekelijkse voortgang vastlegging 
+ 
+ 
+ 
+ 
+ 
+x 
+User stories  
+x 
+x 
+x 
+ 
+x 
+x 
+Dataproduct design 
+ 
+ 
+ 
+x 
+ 
+x 
+Data pipeline design 
+x 
+x 
+x 
+ 
+ 
+x 
+GIT/ Source Code 
+ 
+x 
+ 
+x 
+ 
+x 
+Data science oplossing design 
+ 
+x 
+x 
+ 
+x 
+x 
+Presentaties voor stakeholders of team 
+x 
+ 
+ 
+ 
+ 
+x 
+Adviesrapport  
+x 
+x 
+x 
+ 
+ 
+x 
+Scrum / Kanban board  
+ 
+ 
+ 
+ 
+x 
+x 
+Pipeline development 
+x 
+x 
+x 
+ 
+x 
+ 
+Usability Test Plan 
+ 
+ 
+ 
+ 
+ 
+ 
+Usability Test Rapport 
+ 
+ 
+ 
+ 
+ 
+ 
+Data product prototype 
+ 
+x 
+x 
+x 
+x 
+x 
+AI innovatie prototype 
+ 
+ 
+ 
+x 
+ 
+ 
+Data science oplossing prototype 
+ 
+ 
+x 
+x 
+x 
+ 
+Verantwoording t.a.v. 
+responsible Tech 
+x 
+ 
+ 
+ 
+x 
+x 
+Verantwoording t.a.v transdisciplinaire aanpak. 
+ 
+x 
+x 
+x 
+x 
+x 
+Case- en business understanding onderzoek 
+x 
+x 
+x 
+x 
+x 
+x 
+ 
+Eisen aan het eindproduct. 
+Het moet op basis van data een beslissing kunnen nemen, een visualisatie genereren, een duiding of een advies kunnen geven. 
+  
+Eisen aan de opgave. 
+Er moet voldoende data beschikbaar zijn (uit sensoren, gesimuleerd of uit een ander systeem)  Je moet van de vakdocent goedkeuring van de verdiepende/ verbredende opdracht hebben. 
+4.2 Studenten CMD 
+Ontwerpmethodes waarmee je de competenties kunt aantonen stem je af met medestudenten, de praktijkpartner en de docenten. Je doet hierin zelf een voorstel en wordt hierin gecoacht door de docent(en).  
+  
+Beroepsproducten voor CMD zijn:  
+� Visual ID (voor het ontwerpteam) 
+� Ontwerpproceskaart (live document) 
+� Method-cards (uitleg, fase en verantwoording) 
+� Insights-wall (observaties en inzichten) 
+� Ontwerprichtlijnen (iteraties) 
+� Visualisaties (proces en eindproduct) 
+� Co-creatie (doelgroep/stakeholders) 
+� Minimaal 3 ideevorming methodes (divergeren) 
+� Minimaal 3 concepting methodes (convergeren) 
+� User-journey en User-profile (mens en niet-mens) 
+� Case-movie (voor expo) 
+� Making-of video (van de MVP voor expo) 
+ 
+Naast deze CMD-beroepsproducten voor het project, werk je ook aan een CMD-afstudeerportfolio. 
+ 
+4.3 Studenten CO 
+Als communciatieprofessional werk je vanuit reeds bekende theorieen, methodieken en processen samen met je team. Aanvullend ontwikkel je jezelf op het vlak van Storytelling en Community Management. Specifiek vanuit de competenties:  
+Competentie 3: Concept & Creatie 
+De Smart Connector weet de strategie te vertalen naar een concept. Hij draagt bij aan de totstandkoming van en/of de realisatie van betekenisvolle content met als doel waarde te cre�ren voor alle betrokkenen. 
+ 
+Competentie 4: Planning & Organisatie 
+De Smart Connector kan via een projectmatige planning en binnen het budget vooraf gestelde doelen realiseren. Hij neemt verantwoordelijkheid voor de uitvoering hiervan en de behaalde resultaten. Hij organiseert en co�rdineert het samenwerkingsproces tussen verschillende vakgebieden/ afdelingen, waarbij hij in staat is in te spelen op de steeds veranderende werkelijkheid. 
+Belangrijke communicatie-ingredi�nten/ bewijslast waarvoor je binnen semester 6: een slimme en sociale stad, maak 't samen, de expertise (mede) levert zijn bijvoorbeeld:   
+� Strategisch advies op het gebied van content- en community management    
+� Netwerk- of stakeholdersanalyse  
+� Doelgroepgericht onderzoek   
+� Ontwikkelen van een communicatieconcept en content (tekst, beeld, audio)   
+� Gesprekken organiseren en faciliteren  
+� Opzetten van kleinschalige events (masterclasses, kennislunches e.a.)  
+ 
+ 	 
+
+4.4	tudenten CMGT 
+Studenten CMGT moeten het vak Programmeren 9 volgen als voorwaarde voor een beoordeling van SEM6. 
+De inhoud is relevant voor de SEM6 opgave, de uren gelden dan ook als uren die je voor SEM6 maakt. 
+Onderstaand mogelijke beroepsproducten waar je aan kunt denken voor het aantonen van de competenties. 
+ 
+Mogelijke beroepsproducten per competentie CMGT 
+In dit document staan een aantal voorbeelden van beroepsproducten waar je aan kan denken voor het aantonen dat je aan de competenties van CMGT hebt gewerkt. Dit zijn voorbeelden, je mag dus ook andere bewijslast gebruiken. 
+Ontwikkelen 
+Technische keuzes (ERD/UML/pro�s vs con�s/etc.) 
+Unit tests/Load tests 
+Overdrachtsdocumentatie (Github/README/etc.) 
+Doorontwikkeling, code uitbreidbaarheid 
+Technische prototypes 
+Onderzoeken 
+Onderbouwde onderzoeksmethodes 
+Toegepaste wetenschappelijke literatuur 
+Vakliteratuur 
+Analyse, verbinden van bronnen 
+Reflectie op analyse 
+Ontwerpen 
+Doelgroeponderzoek (Interviews/observaties/Persona/Customer Journey) 
+Usability test (Testopzet/5-seconds test/A-B-Test/etc.) 
+Visualisatie testresultaten en verwerken (Heatmap/barchart/etc.) 
+Brainstorming (Mindmap, COCD-box, participatory) 
+Interactie-ontwerp (Wireframes/sitemap/Story board/etc) 
+Ondernemen 
+Concurrentie-analyse (SWOT/Empathymap/etc.) 
+SCRUM/Planning 
+Notulen bijeenkomsten 
+Rolverdeling (Samenwerkingsovereenkomst/etc.) 
+Oplevering (Overdracht/Acceptatie/Testing/etc.) 
+Betrokken 
+Feedback op eigen gedrag (360 graden feedback/etc.) 
+Persoonlijke ontwikkeldoelen (SMART) 
+Impactanalyse van technologie op natuur (Carbonfooter.nl/etc.) 
+Impactanalyse van technologie op maatschappij (Biasses/etc.) 
+Eigen signatuur (Manifesto/Teamrol/etc.) 
+ 
+ 
+ 
+ 	 
+4.5	tudenten INF 
+Hierin staan een aantal voorbeelden van bewijslast waar je aan kan denken voor het aantonen dat je aan de leerdoelen en competenties hebt gewerkt. Dit zijn voorbeelden, je mag dus ook andere bewijslast gebruiken. Die voeg je dan toe aan dit schema of je vervangt ��n van de voorbeelden.  
+ 
+Bewijslast 
+                                                     INF  Competenties 
+
+
+ 
+Manage & 
+Control 
+Analyseren 
+Adviseren 
+Ontwerpen 
+Realiseren 
+Profession
+al skills 
+Planning (possibly multiple versions) 
+x 
+ 
+ 
+ 
+ 
+ 
+Wekelijkse voortgangsrapporten 
+x 
+ 
+ 
+ 
+ 
+ 
+Software Requirements Specification (SRS) 
+ 
+x 
+ 
+x 
+ 
+ 
+Software ontwerpen (ERD, UML Class Diagram, �) 
+ 
+ 
+ 
+x 
+ 
+ 
+User stories 
+ 
+x 
+ 
+ 
+ 
+ 
+Source Code 
+ 
+ 
+ 
+ 
+x 
+ 
+Unit Tests 
+ 
+ 
+ 
+ 
+x 
+ 
+Presentaties voor stakeholders of team 
+ 
+ 
+x 
+ 
+ 
+ 
+Adviesrapport  
+ 
+ 
+x 
+ 
+ 
+ 
+Scrum / Kanban board  
+x 
+ 
+ 
+ 
+ 
+ 
+Dump van issues tracker 
+x 
+ 
+ 
+ 
+x 
+ 
+Usability Test Plan 
+ 
+x 
+ 
+ 
+x 
+ 
+Usability Test Rapport 
+ 
+ 
+ 
+ 
+x 
+ 
+Performance Test Plan 
+ 
+x 
+ 
+ 
+x 
+ 
+Performance Test Rapport 
+x 
+ 
+ 
+ 
+x 
+ 
+Security Test Plan 
+ 
+x 
+ 
+ 
+x 
+ 
+Security Test Rapport 
+x 
+ 
+ 
+ 
+x 
+ 
+Feedbackformulieren, chats, mails. 
+ 
+ 
+ 
+ 
+ 
+x 
+ 
+Je stemt je bewijslast af met je medestudenten, de praktijkpartner en de INF-docenten. Je doet zelf een voorstel en wordt hierbij gecoacht door de docent(en). 
+De 6 competenties waarop je als INF-er wordt beoordeeld: Analyseren, Ontwerpen, Realiseren, Adviseren, Manage & Control, Professional Skills. 
+Tip: kies de vorm die het best past bij de opgave en bij jou in samenwerking met de medestudenten. 
+LET OP: Belangrijk hierbij is � zoals jullie gewend zijn binnen de opleiding � de navolgbaarheid: De requirements volgen logisch uit de analysefase, leiden tot de ontwerpen, worden getest en op basis daarvan worden conclusies getrokken en aanbevelingen gedaan. De gemaakte keuzes worden goed onderbouwd. 
+ 	 
+4.6	 tudenten TI 
+6. Realiseren en evalueren 
+De student realiseert een beroepsproduct en toont aan dat het aansluit bij de eisen, wensen en behoeften van de eindgebruiker en/of andere belanghebbenden. (incl. de onderbouwing in de bijbehorende documentatie zoals bijv. onderzoek, testen, evaluaties en opleverset) 
+ 
+Competentie 6 kun je aantonen met beroepsproducten zoals bijvoorbeeld: 
+� Analyse waarin de probleemomschrijving, context en de vertaalslag naar een opgave duidelijk beschreven zijn. (Een plan van aanpak kan hierin een rol spelen); 
+� Requirementsanalyse; 
+� Risico-analyse; 
+� Onderbouwde keuzes en adviezen / aanbevelingen (met ruimte voor experiment; dat kan zijn in de vorm van een (onderzoeks)rapport of technical note, maar ook op een andere manier); 
+� Ontwerpen (technisch, voor zowel hardware als software); 
+� Testplan & Testrapport; 
+� Code (concreet werk: goed gestructureerd en gedocumenteerd); 
+� Code review (kritische blik); 
+� Demonstratie (live / filmpje); 
+� Overdrachtsdocumentatie (incl. handleiding(en)); 
+� Reflectie (vormvrij) met daarin aandacht voor het eigen handelen en leren binnen interdisci samenwerken; 
+� Feedback op de samenwerking binnen het team; 
+� Feedback vanuit de stakeholders over de betrokkenheid, aansluiting uitwerking op het probleem. 
+ 
+Beroepsproducten waarmee je de competenties die aansluiten bij de activiteiten zoals we die bij de opleiding kennen zou kunnen aantonen kun je afstemmen met medestudenten, de praktijkpartner en de TI-docenten. Je doet zelf een voorstel en wordt hierbij gecoacht door de docent(en). 
+De 5 activiteiten waarop je als TI-er wordt beoordeeld: Analyseren, Ontwerpen, Realiseren, Adviseren, Manage & Control. 
+Tip: kies de vorm die het best past bij de opgave en bij jou in samenwerking met de medestudenten. 
+LET OP: Belangrijk hierbij is � zoals jullie gewend zijn binnen de opleiding � de navolgbaarheid: De requirements volgen logisch uit de analysefase, leiden tot de ontwerpen, worden getest en op basis daarvan worden conclusies getrokken en aanbevelingen gedaan. De gemaakte keuzes worden goed onderbouwd. 
+ 	 
+
+5 Plagiaat 
+Onder plagiaat wordt verstaan: het overnemen van teksten, afbeeldingen of code zonder correcte bronvermelding. Hier vallen ook door kunstmatige intelligentie gegenereerde teksten, afbeeldingen of code onder, zoals ChatGPT. Je mag dus wel werk van anderen gebruiken in je eigen werk, als je maar duidelijk maakt dat het niet je eigen werk is en een correcte bronvermelding geeft. Plagiaat is een vorm van fraude.  
+Daarnaast is het ook fraude wanneer je een andere student in de gelegenheid stelt onderdelen van je werk over te nemen. 
+Het plegen van fraude en plagiaat is niet toegestaan. Ingeleverd werk kan gescand worden op plagiaat. Bij vermoeden van fraude en/of plagiaat wordt de Examencommissie ge�nformeerd. Voor meer informatie zie de Hogeschoolgids van 2024-2025. 
+ 
+6 Changelog 
+Datum 
+Wijzigingen 
+5 Feb 2025 
+Versie 0.5: Feedback OC�s verwerkt. 
+Jan 2025 
+Versie 0.4: Toetsing verder uitgewerkt 
+16 dec 2024 
+Versie 0.3: Review en verbeteringen: uitwerken toetsing en aanvullen opleidingsspecifieke wensen. 
+6 nov 2024 
+Versie 0.2: Ontwikkelingen zijn doorgevoerd. 
+1 juli 2024 
+Versie 0.1: Eerste versie CH voor studiejaar 2024-2025 

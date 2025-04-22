@@ -1,0 +1,23 @@
+{
+  "name": "chatten-met-eigen-data",
+  "version": "1.0.0",
+  "description": "Een chatbot die informatie haalt uit een tekstbestand",
+  "proxy": "http://localhost:3000",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node --env-file=.env --watch server.js"
+  },
+  "dependencies": {
+    "@langchain/community": "^0.3.40",
+    "@langchain/openai": "^0.0.14",
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "express": "^4.18.3",
+    "faiss-node": "^0.5.1",
+    "langchain": "^0.1.20"
+  },
+  "author": "",
+  "license": "MIT",
+  "keywords": []
+}
