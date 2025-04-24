@@ -5,6 +5,7 @@ let questionId;
 let chat;
 let answerButtons;
 let chatLog;
+let isProcessing = false; // Lock to prevent overlapping requests
 
 function init() {
     form = document.querySelector('#form');
@@ -22,6 +23,13 @@ function init() {
 
 async function sendQuery(e) {
     e.preventDefault();
+
+    if (isProcessing) {
+        alert("Een verzoek wordt al verwerkt. Wacht even alstublieft.");
+        return;
+    }
+
+    isProcessing = true;
 
     const input = document.querySelector('#query').value;
     document.querySelector('#query').value = '';
@@ -46,9 +54,7 @@ async function sendQuery(e) {
                 'Accept': 'application/json',
                 'Content-Type': 'application/json',
             },
-            body: JSON.stringify({
-                question: input,
-            }),
+            body: JSON.stringify({ question: input }),
         });
 
         const { answer } = await response.json();
@@ -67,77 +73,8 @@ async function sendQuery(e) {
         chatLog.append(divBot);
     } catch (error) {
         console.error('Error fetching chat response:', error);
-    }
-}
-
-async function sendAnswer(e) {
-    e.preventDefault();
-
-    try {
-        const response = await fetch(`http://localhost:3000/choice`, {
-            method: 'POST',
-            headers: {
-                'Accept': 'application/json',
-                'Content-Type': 'application/json',
-            },
-            body: JSON.stringify({
-                questionId: questionId,
-                answer: e.target.id,
-            }),
-        });
-        nextQuestion(e.target.id);
-    } catch (error) {
-        console.log(error);
-    }
-}
-
-function nextQuestion(answer) {
-    console.log(questionId);
-    if (questionId === 0) {
-        if (answer === 'ja') {
-            questionId = 1;
-            return (question.innerHTML = questions[questionId]);
-        } else {
-            questionId = 2;
-            return (question.innerHTML = questions[questionId]);
-        }
-    }
-    if (questionId === 1) {
-        if (answer === 'ja') {
-            questionId = 3;
-            return (question.innerHTML = questions[questionId]);
-        } else {
-            questionId = 4;
-            chat.classList.remove('hide');
-            answerButtons.classList.add('hide');
-            return (question.innerHTML = questions[questionId]);
-        }
-    }
-    if (questionId === 2) {
-        if (answer === 'ja') {
-            questionId = 6;
-            chat.classList.remove('hide');
-            answerButtons.classList.add('hide');
-            return (question.innerHTML = questions[questionId]);
-        } else {
-            questionId = 5;
-            chat.classList.remove('hide');
-            answerButtons.classList.add('hide');
-            return (question.innerHTML = questions[questionId]);
-        }
-    }
-    if (questionId === 3) {
-        if (answer === 'ja') {
-            questionId = 7;
-            chat.classList.remove('hide');
-            answerButtons.classList.add('hide');
-            return (question.innerHTML = questions[questionId]);
-        } else {
-            questionId = 8;
-            chat.classList.remove('hide');
-            answerButtons.classList.add('hide');
-            return (question.innerHTML = questions[questionId]);
-        }
+    } finally {
+        isProcessing = false;
     }
 }
 

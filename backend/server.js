@@ -1,8 +1,6 @@
 import { ChatOpenAI, OpenAIEmbeddings } from "@langchain/openai";
 import express from "express";
 import bodyParser from "body-parser";
-import { RecursiveCharacterTextSplitter } from "langchain/text_splitter";
-import { TextLoader } from "langchain/document_loaders/fs/text";
 import { RetrievalQAChain } from "langchain/chains";
 import { FaissStore } from "@langchain/community/vectorstores/faiss";
 
@@ -36,43 +34,54 @@ app.use((req, res, next) => {
 
 const port = 3000;
 let messages = [];
-let prompt;
+let vectorStore;
+let isProcessing = false; // Lock to prevent overlapping requests
 const directory = "vectordatabase";
 
 // Load Faiss vector store
-let vectorStore;
 (async () => {
     vectorStore = await FaissStore.load(directory, embeddings);
 })();
 
-// This function sends a query to GPT using the loaded Faiss vector store
+// Endpoint to handle chat queries
 app.post('/chat', async (req, res) => {
+    if (isProcessing) {
+        return res.status(429).json({ error: "A request is already being processed. Please wait." });
+    }
+
+    isProcessing = true;
     try {
-        prompt = req.body.question;
-        messages.push(['you:', prompt]);
+        const userQuestion = req.body.question;
+        messages.push(['You:', userQuestion]);
 
-        // Create a RetrievalQAChain using the vector store
         const chain = RetrievalQAChain.fromLLM(model, vectorStore.asRetriever());
+        const retrievedContext = await chain.call({ query: userQuestion });
 
-        // Run the query
-        const response = await chain.invoke({ query: prompt });
+        const engineeredPrompt = `Je bent een docent op de Hogeschool Rotterdam. Gebruik de volgende context, je moet bij het antwoorden ook aanraden om de cursushandleiding zelf te lezen:\n\nContext: ${retrievedContext.text}\n\nQuestion: ${userQuestion}`;
+        const response = await model.invoke(engineeredPrompt);
 
-        // Respond with the result
-        res.json({ answer: response.text });
-        messages.push(['AI:', `${response.text}`]);
-        console.log(messages);
+        // Kunstmatige vertraging toevoegen (bijvoorbeeld 5 seconden)
+        setTimeout(() => {
+            res.json({ answer: response.text });
+            messages.push(['AI:', `${response.text}`]);
+            console.log(messages);
+            isProcessing = false;
+        }, 5000); // 5000 ms = 5 seconden
     } catch (error) {
         console.error("Error handling chat query:", error);
         res.status(500).json({ error: "An error occurred while processing your request." });
+        isProcessing = false;
     }
 });
 
+
+// Endpoint to reset the conversation
 app.get('/reset', (req, res) => {
-    messages.splice(0, messages.length);
+    messages = [];
     res.sendStatus(200);
 });
 
-// This function starts the server
+// Start the server
 app.listen(port, () => {
-    console.log(`Example app listening on port ${port}`);
+    console.log(`Server listening on port ${port}`);
 });
