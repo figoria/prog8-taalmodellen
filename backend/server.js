@@ -33,9 +33,8 @@ app.use((req, res, next) => {
 });
 
 const port = 3000;
-let messages = [];
+let messages = []; // Chat history
 let vectorStore;
-let isProcessing = false; // Lock to prevent overlapping requests
 const directory = "vectordatabase";
 
 // Load Faiss vector store
@@ -45,35 +44,28 @@ const directory = "vectordatabase";
 
 // Endpoint to handle chat queries
 app.post('/chat', async (req, res) => {
-    if (isProcessing) {
-        return res.status(429).json({ error: "A request is already being processed. Please wait." });
-    }
-
-    isProcessing = true;
     try {
         const userQuestion = req.body.question;
-        messages.push(['You:', userQuestion]);
+        messages.push({ role: 'user', content: userQuestion });
 
         const chain = RetrievalQAChain.fromLLM(model, vectorStore.asRetriever());
         const retrievedContext = await chain.call({ query: userQuestion });
 
-        const engineeredPrompt = `Je bent een docent op de Hogeschool Rotterdam. Gebruik de volgende context, je moet bij het antwoorden ook aanraden om de cursushandleiding zelf te lezen:\n\nContext: ${retrievedContext.text}\n\nQuestion: ${userQuestion}`;
+        const chatHistory = messages
+            .map(msg => `${msg.role === 'user' ? 'You' : 'AI'}: ${msg.content}`)
+            .join('\n');
+
+        const engineeredPrompt = `Je bent een docent op de Hogeschool Rotterdam. Gebruik de volgende context, je moet bij het antwoorden ook aanraden om de cursushandleiding zelf te lezen:\n\nContext: ${retrievedContext.text}\n\nChat History:\n${chatHistory}\n\nQuestion: ${userQuestion}`;
         const response = await model.invoke(engineeredPrompt);
 
-        // Kunstmatige vertraging toevoegen (bijvoorbeeld 5 seconden)
-        setTimeout(() => {
-            res.json({ answer: response.text });
-            messages.push(['AI:', `${response.text}`]);
-            console.log(messages);
-            isProcessing = false;
-        }, 5000); // 5000 ms = 5 seconden
+        messages.push({ role: 'AI', content: response.text });
+
+        res.json({ answer: response.text });
     } catch (error) {
         console.error("Error handling chat query:", error);
         res.status(500).json({ error: "An error occurred while processing your request." });
-        isProcessing = false;
     }
 });
-
 
 // Endpoint to reset the conversation
 app.get('/reset', (req, res) => {

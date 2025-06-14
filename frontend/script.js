@@ -1,20 +1,12 @@
 window.addEventListener('load', init);
 let form;
 let question;
-let questionId;
-let chat;
-let answerButtons;
 let chatLog;
-let isProcessing = false; // Lock to prevent overlapping requests
 
 function init() {
     form = document.querySelector('#form');
     form.addEventListener('submit', sendQuery);
     question = document.querySelector('#question');
-    questionId = 0;
-    chat = document.querySelector('#chat-input');
-    chat.classList.add('hide');
-    answerButtons = document.querySelector('#answer-buttons');
     chatLog = document.querySelector('.chat');
 
     const reset = document.querySelector('#reset');
@@ -24,28 +16,12 @@ function init() {
 async function sendQuery(e) {
     e.preventDefault();
 
-    if (isProcessing) {
-        alert("Een verzoek wordt al verwerkt. Wacht even alstublieft.");
-        return;
-    }
+    const input = document.querySelector('#query').value.trim();
+    if (!input) return;
 
-    isProcessing = true;
-
-    const input = document.querySelector('#query').value;
     document.querySelector('#query').value = '';
 
-    const divUser = document.createElement('div');
-    divUser.classList.add('chat', 'user');
-    const spanUser = document.createElement('span');
-    spanUser.classList.add('user-icon');
-    const paragraphUser = document.createElement('p');
-    paragraphUser.innerHTML = input;
-    const iconUser = document.createElement('i');
-    iconUser.classList.add('fa', 'fa-user');
-
-    spanUser.append(iconUser);
-    divUser.append(spanUser, paragraphUser);
-    chatLog.append(divUser);
+    addMessageToChatLog('You', input);
 
     try {
         const response = await fetch(`http://localhost:3000/chat`, {
@@ -58,24 +34,26 @@ async function sendQuery(e) {
         });
 
         const { answer } = await response.json();
-
-        const divBot = document.createElement('div');
-        divBot.classList.add('chat', 'chat-bot');
-        const spanBot = document.createElement('span');
-        spanBot.classList.add('user-icon');
-        const paragraphBot = document.createElement('p');
-        paragraphBot.innerHTML = answer;
-        const iconBot = document.createElement('i');
-        iconBot.classList.add('fa', 'fa-robot');
-
-        spanBot.append(iconBot);
-        divBot.append(spanBot, paragraphBot);
-        chatLog.append(divBot);
+        addMessageToChatLog('AI', answer);
     } catch (error) {
         console.error('Error fetching chat response:', error);
-    } finally {
-        isProcessing = false;
     }
+}
+
+function addMessageToChatLog(role, message) {
+    const div = document.createElement('div');
+    div.classList.add('chat', role === 'You' ? 'user' : 'chat-bot');
+    const span = document.createElement('span');
+    span.classList.add('user-icon');
+    const paragraph = document.createElement('p');
+    paragraph.textContent = message;
+    const icon = document.createElement('i');
+    icon.classList.add('fa', role === 'You' ? 'fa-user' : 'fa-robot');
+
+    span.append(icon);
+    div.append(span, paragraph);
+    chatLog.append(div);
+    chatLog.scrollTop = chatLog.scrollHeight; // Scroll naar de laatste boodschap
 }
 
 async function resetHandler(e) {
